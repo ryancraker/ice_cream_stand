@@ -1,10 +1,10 @@
 let iceCreamFlavors = [
-  { name: "vanilla", price: 2, qty: 0 },
-  { name: "chocolate", price: 2, qty: 0 },
-  { name: "strawberry", price: 2, qty: 0 },
-  { name: "cookie dough", price: 2, qty: 0 },
-  { name: "mint chocolate chip", price: 2, qty: 0 },
-  { name: "birthday cake", price: 2, qty: 0 }
+  { name: "Vanilla", price: 1, qty: 0 },
+  { name: "Chocolate", price: 1.50, qty: 0 },
+  { name: "Strawberry", price: 1.75, qty: 0 },
+  { name: "Cookie dough", price: 2, qty: 0 },
+  { name: "Mint chocolate chip", price: 2.25, qty: 0 },
+  { name: "Birthday cake", price: 2.50, qty: 0 }
 ]
 
 function buyScoop(flavorPosition) {
