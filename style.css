@@ -1,0 +1,9 @@
+body {
+  background-color: rgba(67, 139, 170, 0.679);
+}
+
+.image-size {
+  max-width: 382px;
+  max-height: 200px;
+  object-fit: cover;
+}
