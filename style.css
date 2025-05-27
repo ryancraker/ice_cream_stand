@@ -7,3 +7,9 @@ body {
   height: 200px;
   object-fit: cover;
 }
+
+.price-space {
+  align-content: center;
+  font-family: fantasy;
+  inline-size: min-content;
+}
